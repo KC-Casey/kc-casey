@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello World! This is my blog. Welcome!
 <!--
 **KC-Casey/kc-casey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
